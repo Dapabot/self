@@ -1,8 +1,8 @@
 ///====================================================/// 
 /*
   ⊙ BASE : SELF-BOT © 2K22
-  ⊙ LIBRARY : BAILEYS [LATEST] 
-  ⊙ BROWSER : MICROSOFT EDGE
+  ⊙ LIBRARY : BAILEYS [YANZGANZ] 
+  ⊙ BROWSER : MICROSOFT BOTYANZ
   ⊙ CREATOR : X-Arip͘⁴̅⁰͍⁴̵〆 // Jangan diubah 
   ⊙ DEVELOPER : Zeeone OFC // Jangan diubah 
   
