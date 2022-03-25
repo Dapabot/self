@@ -65,7 +65,7 @@ root.logger.level = 'warn'
 root.version = [2, 2143, 3]
 root.browserDescription  = [" ItsMeArip ","Ubuntu","18.04"]
 console.log(banner.string) 
-root.on('qr', () => {
+root.on('tersambung', () => {
 console.log(color('[','red'), color('☭','red'), color(']','red'), color(' Please scan the QR code to whatsapp web \n'))
 })
 
